@@ -2,6 +2,7 @@
 title: "An Exploration of Trends in Crime Rates Across Los Angeles (2020-2024)"
 author: "Hanin Almodaweb"
 format: html
+embed-resources: true
 ---
 
 ```{r setup, message=FALSE, echo=FALSE, warning=FALSE}
