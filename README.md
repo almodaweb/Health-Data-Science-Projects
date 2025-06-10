@@ -1,6 +1,6 @@
-# R-Projects
+# Health Data Science Projects
 
-Welcome to my R Projects repository! This space serves as a collection of various R projects I've worked on, spanning data analysis, visualization, statistical modeling, and more. Each project folder is self-contained, with its own scripts, data files, and outputs.
+Welcome to my Health Data Science Projects repository! This space serves as a collection of various R projects I've worked on, spanning data analysis, visualization, statistical modeling, and more. Each project folder is self-contained, with its own scripts, data files, and outputs.
 
 ## Projects Overview
 
