@@ -7,5 +7,5 @@ Welcome to my R Projects repository! This space serves as a collection of variou
 Brief overview of the projects currently in this repository:
 
 - **Crime Analysis in Los Angeles**: Analyzing crime patterns and demographics in Los Angeles, focusing on temporal and spatial trends (2020-2024).
-- **PM2.5 Trends in California**: Analyzing Assessing changes in PM2.5 concentrations in California over a 20-year period (2002-2022). 
+- **PM2.5 Trends in California**: Analyzing changes in PM2.5 concentrations in California over a 20-year period (2002-2022). 
 - **Air Quality and Respiratory Health in Southern California Children**: Investigating associations between BMI, smoke/gas exposure, PM2.5 exposure, and respiratory health (FEV) among children in Southern California communities, focusing on data wrangling and visualization.
